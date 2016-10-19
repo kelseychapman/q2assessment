@@ -1,0 +1,30 @@
+{
+  "name": "assesment_q2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "engines": {
+    "node": "6.5.0"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "body-parser": "~1.15.1",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "~1.4.3",
+    "cookie-session": "^2.0.0-alpha.1",
+    "debug": "~2.2.0",
+    "dotenv": "^2.0.0",
+    "express": "~4.13.4",
+    "hbs": "~4.0.0",
+    "knex": "^0.12.5",
+    "materialize": "^1.0.0",
+    "morgan": "~1.7.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "passport-linkedin": "^1.0.0",
+    "pg": "^6.1.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
